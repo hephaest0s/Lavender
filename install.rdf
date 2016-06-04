@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <RDF:Description about="urn:mozilla:install-manifest">
+
+    <!-- GUID and type -->
+    <em:id>hephaestos@riseup.net</em:id>
+    <em:type>2</em:type>
+
+    <!-- Extension details -->
+    <em:name>Lavender</em:name>
+    <em:description>Converts gendered english pronouns to gender-neutral pronouns.</em:description>
+    <em:creator>Hephaestos</em:creator>
+    <em:developer>Hephaestos</em:developer>
+    <em:homepageURL>https://github.com/hephaest0s/lavender</em:homepageURL>
+
+    <!-- Current version -->
+    <em:version>0.1</em:version>
+
+    <!-- Firefox meta info -->
+    <em:targetApplication>
+      <RDF:Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>4.0</em:minVersion>
+        <em:maxVersion>83.*</em:maxVersion>
+      </RDF:Description>
+    </em:targetApplication>
+
+  </RDF:Description>
+</RDF:RDF>
