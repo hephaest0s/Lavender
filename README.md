@@ -8,7 +8,7 @@ Gender-neutral pronouns are pronouns that do not specify the gender of their ref
 With Lavender, you can read on the internet while the pronouns on the page are converted to their gender-neutral equivalents. This also helps you to learn the English gender-neutral pronouns.
 
 ## How do I install?
-To install Lavender, click the green button that says "Clone or download" and then "Download ZIP". Open the lavender.xpi with Firefox and click install. After the automatic installation, you will have te restart your browser.
+To install Lavender, click the green button that says "Clone or download" and then "Download ZIP". Open the lavender.xpi with Firefox and click install. After the automatic installation, you will have to restart your browser.
 
 You should then be ready to browse the internet in Lavender English and, for example, read an article about [Chelsea Manning] (https://en.wikipedia.org/wiki/Chelsea_Manning) without any gender-specific pronouns being used to refer to hir.
 
