@@ -1,6 +1,6 @@
 # Lavender
 
-Lavender is a firefox browser extension that converts gendered English pronouns (e.g., he, she, herself) to gender-neutral pronouns (ze, ze, hirself).
+Lavender is a Firefox browser extension that converts gendered English pronouns (e.g., he, she, herself) to gender-neutral pronouns (e.g., ze, ze, hirself).
 
 Gender-neutral pronouns are pronouns that do not specify the gender of their referents. Often times, the gender of a person is not relevant to the message that the text carries. Moreover, not all people's gender identities are encompassed by the gender binary that the 20th-century English language imposes.
 
