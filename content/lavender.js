@@ -186,7 +186,7 @@
 
     // Main function that lavenderizes text.
     // Loops over a replace operator until text is stable, 
-    // The replaces the his words.
+    // Then replaces the his words.
     function lavenderize(text) {
         if ( text.indexOf(" ") === -1 )
         {
