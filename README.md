@@ -10,7 +10,7 @@ With Lavender, you can read on the internet while the pronouns on the page are c
 ## How do I install?
 Lavender can be installed from [here](https://addons.mozilla.org/en-US/firefox/addon/lavender_english/).
 
-You should then be ready to browse the internet in Lavender English and, for example, read an article about [Chelsea Manning] (https://en.wikipedia.org/wiki/Chelsea_Manning) without any gender-specific pronouns being used to refer to hir.
+You should then be ready to browse the internet in Lavender English and, for example, read an article about [Chelsea Manning] (https://en.wikipedia.org/wiki/Chelsea_Manning) without gender-specific pronouns being used to refer to hir.
 
 
 ## Reference table
