@@ -7,23 +7,27 @@
     
         var child, next;
     
-        switch ( node.nodeType )  
+        if ( (typeof(node) != "undefined") 
+            && (typeof(node.nodeType) != "undefined") ) 
         {
-            case 1:  // Element
-            case 9:  // Document
-            case 11: // Document fragment
-                child = node.firstChild;
-                while ( child ) 
-                {
-                    next = child.nextSibling;
-                    walk(child);
-                    child = next;
-                }
-                break;
-    
-            case 3: // Text node
-                handleText(node);
-                break;
+            switch ( node.nodeType )  
+            {
+                case 1:  // Element
+                case 9:  // Document
+                case 11: // Document fragment
+                    child = node.firstChild;
+                    while ( child ) 
+                    {
+                        next = child.nextSibling;
+                        walk(child);
+                        child = next;
+                    }
+                    break;
+        
+                case 3: // Text node
+                    handleText(node);
+                    break;
+            }
         }
     }
     
