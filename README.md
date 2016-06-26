@@ -19,3 +19,7 @@ You should then be ready to browse the internet in Lavender English and, for exa
 | Male           | He is laughing       | I called him      | His eyes gleam        | That is his        | He likes himself  |
 | Female         | She is laughing      | I called her      | Her eyes gleam        | That is hers       | She likes herself |
 | Gender-neutral | Ze is laughing       | I called hir      | Hir eyes gleam        | That is hirs       | Ze likes hirself  |
+
+
+## Also see
+There is a Python2/3 implementation of Lavender that you can find [here](https://github.com/hephaest0s/lavenderPy) 
